@@ -19,7 +19,7 @@ nav ul li{
 	grid-column: 2/span 1;
   	grid-row: 1/span 1;
   	padding: 50px;
-
+}
  /* Dropdown Button */
 .dropbtn {
   background-color: #4CAF50;
